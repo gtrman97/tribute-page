@@ -1,0 +1,57 @@
+img {
+    border-radius: 50%;  
+    width: 50%;
+    height: auto;  
+    margin: auto; 
+  }
+  body {
+    font-family: system-ui;
+    background: salmon; 
+    color: black;
+    height: 100vh;
+    margin: auto;
+    display: grid;
+    place-items: center;
+    text-align: center; 
+  }
+  #title {
+    text-align: center; 
+  }
+  #img-div {
+    display: block;
+    max-width: 100%; 
+    height: auto;  
+  }
+  #img-caption {
+    text-align: center;
+    padding: 25px; 
+  }
+  #image {
+    display: block; 
+    max-width: 100%; 
+    height: auto; 
+  }
+  #tribute-info {
+      text-align: left; 
+      width: 50%; 
+      height: auto;  
+      margin: auto; 
+      background-color: lightgreen; 
+      border: 2px solid lightgreen; 
+      border-radius: 15px; 
+      padding: 25px; 
+  }
+  li {
+        padding: 7px; 
+  }
+  #quote {
+    padding-top: 30px; 
+    max-width: 100%; 
+    height: auto; 
+  }
+  footer {
+    margin-top: 50px; 
+  }
+  footer {
+    padding-bottom: 25px; 
+  }
