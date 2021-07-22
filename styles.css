@@ -14,6 +14,9 @@ img {
     place-items: center;
     text-align: center; 
   }
+  h2 {
+    text-align: center;
+  }
   #title {
     text-align: center; 
   }
